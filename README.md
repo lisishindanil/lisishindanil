@@ -4,11 +4,11 @@
 ```python
 name = "Danylo Lysyshyn"
 who_i_am = ["Developer", "Coder", "Engineer"]
-age = 20
+age = 21
 
 print(f"{name}, {age} y.o.\nI am " + ", ".join(who_i_am))
 
-# > Danylo Lysyshyn, 20 y.o.
+# > Danylo Lysyshyn, 21 y.o.
 # I am Developer, Coder, AI Engineer
 
 ```
